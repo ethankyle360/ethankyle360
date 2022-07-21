@@ -38,8 +38,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I read tech articles related to Bootstrap and learning new things such as Finance and Economics.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethanaurellano/)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
