@@ -53,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :hammer_and_wrench: Github Stats :
+### :bar_chart: Github Stats :
 
 <div>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethankyle360&show_icons=true&locale=en" alt="ethankyle360" /></p>
@@ -61,7 +61,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### Total Contributions :
+### :fire: Total Contributions :
 
 <div>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethankyle360&" alt="ethankyle360" /></p>
@@ -69,7 +69,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### Top Languages :
+### :love_you_gesture: Top Languages :
 
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethankyle360&show_icons=true&locale=en&layout=compact" alt="ethankyle360" /></p>
