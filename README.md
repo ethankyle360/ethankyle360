@@ -50,3 +50,27 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :hammer_and_wrench: Github Stats :
+
+<div>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethankyle360&show_icons=true&locale=en" alt="ethankyle360" /></p>
+</div>
+
+---
+
+### Total Contributions :
+
+<div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethankyle360&" alt="ethankyle360" /></p>
+</div>
+
+---
+
+### Top Languages :
+
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethankyle360&show_icons=true&locale=en&layout=compact" alt="ethankyle360" /></p>
+</div>
