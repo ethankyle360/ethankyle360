@@ -32,11 +32,11 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Arizona.
 
-- :telescope: I’m an Aspiring Full Stack Developer currently doing a Software Developer Bootcamp at Austin Community College.
+- :telescope: I’m an aspiring AI developer pursuing a bachelor's degree in applied computer science.
 
 - :seedling: Exploring Tech Enthusiast.
 
-- :zap: In my free time, I read tech articles related to Bootstrap and learning new things such as Finance and Economics.
+- :zap: In my free time, I read tech articles related to Bootstrap and learn new things such as Finance and Economics.
 
 ---
 
