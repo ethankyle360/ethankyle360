@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Tech Enthusiast.
 
-- :zap: In my free time, I read tech articles related to Bootstrap and learn new things such as Finance and Economics.
+- :zap: In my free time, I read anything related to AI/ML and enjoy learning new things each day.
 
 ---
 
