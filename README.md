@@ -17,10 +17,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/56422199/180282976-433df16d-262a-478d-937b-6880162290f5.png" width="600" height="300"/>
-</div>
-
 ---
 
 ### :man_technologist: About Me :
