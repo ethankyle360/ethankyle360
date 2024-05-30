@@ -1,34 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
-</div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ethanaurellano/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ethankyle360&style=flat-square&color=blue" alt=""/>
-</div>
-
-<h1 align="center">
-  Hello there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
----
-
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Arizona.
-
-- :telescope: I’m an aspiring AI developer pursuing a bachelor's degree in applied computer science.
-
-- :seedling: Exploring Tech Enthusiast.
-
-- :zap: In my free time, I read anything related to AI/ML and enjoy learning new things each day.
-
----
+👋**Hello there**
+<p>
+  I’m Ethan, an aspiring Supply Chain Engineer pursuing a Bachelor's degree in Applied Computer Science. I am passionate learning about Data Science to help optimize operations in the Supply Chain.
+</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 
