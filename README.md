@@ -1,4 +1,4 @@
-👋**Hello there**
+👋**Hi there**
 <p>
   I’m Ethan, an aspiring Supply Chain Engineer pursuing a Bachelor's degree in Applied Computer Science. I am passionate learning about Data Science to help optimize operations in the Supply Chain.
 </p>
